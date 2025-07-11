@@ -28,7 +28,18 @@ A scalable and responsive Point of Sale (POS) application built using **React.js
 - 🎯 Enhanced UX and usability by 40 percent
 
 ## 📸 Screenshots
-*(Add your app screenshots here)*
+<img width="1216" height="526" alt="image" src="https://github.com/user-attachments/assets/4422bc4d-007e-4cb9-9cbd-e3b8d0d8e878" />
+<img width="1244" height="512" alt="image" src="https://github.com/user-attachments/assets/fe0e5a93-a2e2-43ad-9796-1fa20278875b" />
+<img width="1225" height="525" alt="image" src="https://github.com/user-attachments/assets/c2536caf-eab1-4762-a815-d24f4809b055" />
+<img width="1229" height="531" alt="image" src="https://github.com/user-attachments/assets/1e0dd29d-5a8b-4761-bff9-296e1f766cef" />
+<img width="1226" height="521" alt="image" src="https://github.com/user-attachments/assets/14f044ff-25e1-4b03-b6bd-211172fc72ce" />
+<img width="1227" height="523" alt="image" src="https://github.com/user-attachments/assets/5183675f-4bc4-4213-bd22-760b6080e2d7" />
+
+
+
+
+
+
 
 ## 📂 Setup Instructions
 1. Clone the repository:
